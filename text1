@@ -1,0 +1,4 @@
+
+main{
+ptintf("Hello World")
+}
